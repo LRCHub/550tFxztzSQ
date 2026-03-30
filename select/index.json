@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "フラッシュバッカー -We will B- Live ver.",
+  "base_artist": "kessoku band",
+  "createdAt": "2026-03-30T16:56:14.520514Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フラッシュバッカー",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/01_フラッシュバッカー_結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フラッシュバッカー (플래시배커)",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/02_フラッシュバッカー_(플래시배커)_結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "フラッシュバッカー",
+      "artist": "結束バンド (青山吉能, 鈴代紗弓, 水野朔, 長谷川育美)",
+      "has_synced": true,
+      "path": "select/03_フラッシュバッカー_結束バンド_(青山吉能,_鈴代紗弓,_水野朔,_長谷川育美).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "フラッシュバッカー -恒星- Live ver.",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/04_フラッシュバッカー_-恒星-_Live_ver._結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "フラッシュバッカー -恒星- Live ver.",
+      "artist": "結束バンド (青山吉能, 鈴代紗弓, 水野朔, 長谷川育美)",
+      "has_synced": true,
+      "path": "select/05_フラッシュバッカー_-恒星-_Live_ver._結束バンド_(青山吉能,_鈴代紗弓,_水野朔,_長谷川育美).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "フラッシュバッカー",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/06_フラッシュバッカー_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "フラッシュバッカー -恒星- Live ver.",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/07_フラッシュバッカー_-恒星-_Live_ver._kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "フラッシュバッカー",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/08_フラッシュバッカー_結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "フラッシュバッカー - Flashbacker",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/09_フラッシュバッカー_-_Flashbacker_kessoku_band.lrc"
+    }
+  ]
+}
